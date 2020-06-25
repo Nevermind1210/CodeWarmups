@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups04\main.cpp(10,47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CodeWarmups04.vcxproj -> C:\Users\s200501\Source\Repos\CodeWarmups\x64\Debug\CodeWarmups04.exe
