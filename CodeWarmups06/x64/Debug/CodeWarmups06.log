@@ -1,0 +1,14 @@
+﻿  Source.cpp
+  StopWatch.cpp
+C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups06\StopWatch.cpp(20,24): warning C4244: 'return': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups06\StopWatch.cpp(26,24): warning C4244: 'return': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating Code...
+  CodeWarmups06.vcxproj -> C:\Users\s200501\Source\Repos\CodeWarmups\x64\Debug\CodeWarmups06.exe
