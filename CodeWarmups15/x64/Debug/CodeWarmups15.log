@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups15\Source.cpp(5): error C4700: uninitialized local variable 'n' used
