@@ -37,7 +37,7 @@ std::vector<std::string> Explode(char seperator, const char* str)
     return result;
 }
 
-std::vector<Point> ParsePointString(const std::string& sPoints, char sep)
+std::vector<Point> ParsePointString(const std::string& sPoints)
 {
     std::vector<Point> result;
     
@@ -57,7 +57,7 @@ std::vector<Point> ParsePointString(const std::string& sPoints, char sep)
 int main(int argc, char** argv)
 {
     std::string sPoints = "0,0 -3,-214 187,-422 196,-862 -95,-1044 -461,-1219 -732,-1310 -950,-1338 -1213,-1339";
-    auto points = ParsePointString(sPoints,);
+    auto points = ParsePointString(sPoints);
     for (auto& point : points)
     {
         std::cout << point.x << "\t" << point.y << std::endl;

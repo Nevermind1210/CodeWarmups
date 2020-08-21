@@ -1,20 +1,2 @@
 ﻿  Source.cpp
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(60,44): error C2059: syntax error: ')'
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,30): error C3536: 'points': cannot be used before it is initialized
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(62,5): error C2672: 'begin': no matching overloaded function found
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,5): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xutility(1903): message : see declaration of 'std::begin'
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,5): message : With the following template arguments:
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,5): message : '_Container=int'
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,5): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'int'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\initializer_list(57): message : see declaration of 'std::begin'
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(62,5): error C2672: 'end': no matching overloaded function found
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,5): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\xutility(1913): message : see declaration of 'std::end'
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,5): message : With the following template arguments:
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,5): message : '_Container=int'
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,5): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'int'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\include\initializer_list(63): message : see declaration of 'std::end'
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,5): error C3536: '<begin>$L0': cannot be used before it is initialized
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(61,5): error C3536: '<end>$L0': cannot be used before it is initialized
-C:\Users\s200501\source\repos\CodeWarmups\CodeWarmups14\Source.cpp(62,5): error C2100: illegal indirection
+  CodeWarmups14.vcxproj -> C:\Users\s200501\Source\Repos\CodeWarmups\x64\Debug\CodeWarmups14.exe
